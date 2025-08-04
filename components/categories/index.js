@@ -20,7 +20,7 @@ const CategorySection = () => {
       id: 2,
       name: "Lord Shiva Sculptures",
       description:
-        "Channel divine energy with our serene and powerful Shiv Ji idols",
+        "Channel devapi  energy with our serene and powerful Shiv Ji idols",
       image: "/image/2.jpg", // Image path
       color: "from-lime-500 to-green-600",
     },
@@ -36,7 +36,7 @@ const CategorySection = () => {
       id: 4,
       name: "Khatu Shyam Ji Idols",
       description:
-        "Celebrate the divine form of Shyam Baba with intricately crafted idols.",
+        "Celebrate the devapi form of Shyam Baba with intricately crafted idols.",
       image: "/image/4.jpg", // Image path
       color: "from-amber-500 to-orange-600",
     },
@@ -80,7 +80,7 @@ const CategorySection = () => {
             transition={{ duration: 0.5 }}
             className="text-4xl font-bold text-gray-900 mb-4 font-serif"
           >
-            Explore our handpicked collection of divine idols and sculptures.
+            Explore our handpicked collection of devapi idols and sculptures.
           </motion.h2>
           <motion.div
             initial={{ width: 0 }}

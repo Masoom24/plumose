@@ -16,7 +16,7 @@ const BestSale = () => {
       id: 1,
       name: "Khatu Shyam ",
       description:
-        "Celebrate the divine form of Shyam Baba with intricately crafted idols.",
+        "Celebrate the devapi  form of Shyam Baba with intricately crafted idols.",
       price: 45.99,
       originalPrice: 79.99,
       rating: 4.7,
@@ -40,7 +40,7 @@ const BestSale = () => {
       id: 3,
       name: "shiv ji ",
       description:
-        "Channel divine energy with our serene and powerful Shiv Ji idols",
+        "Channel devapi  energy with our serene and powerful Shiv Ji idols",
       price: 64.99,
       originalPrice: 89.99,
       rating: 4.3,
@@ -96,7 +96,7 @@ const BestSale = () => {
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">
           <h1 className="text-4xl md:text-5xl font-bold text-green-900 mb-4">
-            Hot Picks from the Divine Store{" "}
+            Hot Picks from the devapi Store{" "}
             <span className="text-amber-600">– Up to 50% Off!</span>
           </h1>
           <div className="w-32 h-1 bg-gradient-to-r from-emerald-500 to-green-600 mx-auto rounded-full mb-6"></div>

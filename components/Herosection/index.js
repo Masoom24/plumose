@@ -62,7 +62,7 @@ const Herosection = () => {
         {/* Overlay Title */}
         <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-center z-10">
           <h1 className="text-4xl md:text-6xl font-bold mb-4 drop-shadow-md">
-            Divine Idols Collection
+            devapi Idols Collection
           </h1>
           <p className="text-lg md:text-xl drop-shadow-sm">
             Find beautifully crafted idols for your temple and home
@@ -72,7 +72,7 @@ const Herosection = () => {
       {/* Featured Categories Continuous Scroll */}
       <section className="w-full bg-[#F0F8EC] py-14 px-4 md:px-10">
         <h2 className="text-3xl md:text-4xl font-extrabold text-center text-[#F08080] mb-10">
-          The Divine Murti Store
+          The devapi Murti Store
         </h2>
 
         <Swiper

@@ -7,7 +7,7 @@ const Featured = () => {
       id: 1,
       name: "Khatu Shyam",
       description:
-        "Celebrate the divine form of Shyam Baba with intricately crafted idols.",
+        "Celebrate the devapi form of Shyam Baba with intricately crafted idols.",
       price: 499,
       originalPrice: 799,
       rating: 4.7,
@@ -29,7 +29,7 @@ const Featured = () => {
       id: 3,
       name: "Shiv Ji",
       description:
-        "Channel divine energy with our serene and powerful Shiv Ji idols.",
+        "Channel devapi energy with our serene and powerful Shiv Ji idols.",
       price: 549,
       originalPrice: 899,
       rating: 4.3,
@@ -69,7 +69,7 @@ const Featured = () => {
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-14">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 tracking-tight mb-4">
-            New Latest Divine Creations
+            New Latest devapi Creations
           </h1>
         </div>
 
